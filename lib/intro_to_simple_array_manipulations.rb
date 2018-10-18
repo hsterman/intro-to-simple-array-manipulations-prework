@@ -8,4 +8,5 @@ singers.push(next_singer)
 end 
 
 cities = ["New York", "Los Angeles", "Tokyo", "Paris", "London"]
-cities.unshift
+cities.unshift("New York")
+end 
